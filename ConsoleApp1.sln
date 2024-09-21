@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsCount", "ConsoleApp1\WordsCount.csproj", "{053292F4-0AF0-4EDB-AB53-B54BA596A6CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraiangleApp", "TraiangleApp\TraiangleApp.csproj", "{425F2415-4A29-4095-AC4D-883D2B294D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{053292F4-0AF0-4EDB-AB53-B54BA596A6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053292F4-0AF0-4EDB-AB53-B54BA596A6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053292F4-0AF0-4EDB-AB53-B54BA596A6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053292F4-0AF0-4EDB-AB53-B54BA596A6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425F2415-4A29-4095-AC4D-883D2B294D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425F2415-4A29-4095-AC4D-883D2B294D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425F2415-4A29-4095-AC4D-883D2B294D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425F2415-4A29-4095-AC4D-883D2B294D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DCBA3E5-D569-4158-A949-9BAF95BE27BA}
+	EndGlobalSection
+EndGlobal
